@@ -78,3 +78,95 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 **BAB III** berisi penjelasan detail dari  masing-masing kebutuhan lain yang spesifik.<br>
 
 **BAB IV** berisikan tentang uraian mengenai informasi pendukung dalam pembuatan proyek Sistem Informasi Absensi dan Penggajian di Kafka Konveksi.<br></ol>
+
+**2.** **Gambaran Umum**<br>
+<ol>APLIKASI SISTEM INFORMASI DAN MANAGEMENT ADMIN AYAM GEPREK BERBASIS WEBSITE merupakan aplikasi untuk mempermudah Penjual memanagent data transaksi yang dilakukan di Ayam geprek alhamdulilah  tersebut . dimana Penjual sebagai admin yang dapat melakuakan proses CRUD menu makanan yang juga dapat merubah status  habis atau tidaknya makanan dan minuman yang ada dalam menu.<br></ol>
+
+**2.1** **Perspektif produk**<br>
+<ol>APLIKASI SISTEM INFORMASI DAN MANAGEMENT ADMIN AYAM GEPREK ALHAMDULILAH BERBASIS WEBSITE adalah aplikasi yang digunakan untuk memanagent data transaksi  melalui Website yang sebelumnya menggunaka metode manual dengan menulis data transaksi. Kemudian APLIKASI SISTEM INFORMASI DAN MANAGEMENT ADMIN AYAM GEPREK ALHAMDULILAH BERBASIS WEBSITE juga dapat melakukan proses CRUD menu makanan yang juga dapat merubah status  habis atau tidaknya makanan dan minuman yang ada dalam menu.<br></ol>
+
+**2.1.1** **Antarmuka Sistem**<br>
+
+**2.1.1.1**	**Use Cases Pelanggan**<br>
+<center><img src="Gambar/usecase_pelanggan.png" width="250" height="250"></center>
+
+**2.1.1.2**	**Use Cases Admin**<br>
+<center><img src="Gambar/usecase_admin.png" width="250" height="250"></center>
+
+**2.1.2** **Antarmuka pengguna**<br>
+<ol>APLIKASI SISTEM INFORMASI DAN MANAGEMENT PENJUALAN AYAM GEPREK ALHAMDULIHAH BERBASIS WEBSITE menggunakan antarmuka berbasis website. Dimana antarmuka antarmuka website digunakan oleh admin.<br></ol>
+
+**2.1.3** **Antarmuka perangkat keras**<br>
+<ol>
+•	Laptop<br>
+•	Processor Core i3 or higher<br>
+•	Penyimpanan(Hardisk) Minimal 4 GB free space<br>
+•	Monitor resolusi 1240 x 768 colors 5<br>
+•	Keyboard dan mouse compatible with windows<br></ol>
+
+**2.1.4** **Antarmuka perangkat lunak**<br>
+<ol>Perangkat lunak yang dibutuhkan untuk aplikasi ini yaitu :<br></ol>
+<ol>
+•	Windows 7 or higher<br>
+•	Android Studio<br>
+•	Corel Draw X7<br>
+•	Database Mysql<br>
+•	Balsamiq Mockups 3<br>
+•	Sublime Text 3<br></ol>
+
+
+**2.1.5** **Antarmuka komunikasi**<br> 
+<ol>
+•	Paket Data<br>
+•	Wifi<br>
+•	Modem<br>
+•	Smartphone<br></ol>
+
+**2.1.6** **Batasan Memori**<br>
+<ol>
+•	RAM yang kami gunakan adalah minimal 4 gb.<br>
+•	Memori yang dibutuhkan aplikasi minimal 50 mb.<br></ol>
+
+**2.1.7**	**Operasi – operasi**<br>
+<ol>
+•	Input data makanan<br>
+•	Input data minuman<br>
+•	Input data jumlah barang yang di beli secara offline<br>
+•	Update data makanan<br>
+•	Update data minuman<br>
+•	Menampilkan data User<br>
+•	Menampilkan hasil penjualan harian<br>
+•	Menampilkan history transaksi<br>
+•	Menampilkan laporan keuangan perhari, perbulan, dan pertahun<br>
+•	Arsip laporan kuangan<br></ol>
+
+**2.1.8**	**Kebutuhan Adaptasi**<br>
+<ol>Kebutuhan adaptasi yang diperlukan pada saat pengembangan aplikasi dengan menggunakan fungsi update data agar memudahkan admin dalam mengkoreksi pengetikan yang salah.<br><ol>
+
+**2.2**	**Fungsi - fungsi Produk**<br>
+<ol>
+•	Memudahkan pelayanan  dalam mencatat pesanan pelanggan.<br>
+•	Memberi tahu pelanggan menu mana yang habis dan yang tidak.<br>
+•	Menambah list menu tanpa membuat list menu yang baru.<br>
+•	Memudahkan pemilik usaha ayam geprek untuk melihat pendapatan maupun laporan keuangannya.<br></ol>
+
+**2.3**	**Karakteristik Pengguna**<br>
+<ol>
+•	Pengguna mampu membaca dan menulis.<br>
+•	Pengguna mengerti cara menggunakan PC dengan sistem operasi setidaknya windows.<br>
+•	Mengerti cara menggunakan browser pada PC.<br></ol>
+
+**2.4**	**Batasan – batasan**<br>
+<ol>
+•	Berjalan pada platform website<br>
+•	Sementara ini aplikasi ini hanya untuk Geprek Alhamdulilah Indramayu<br>
+•	Aplikasi ini tidak untuk layanan pesan antar<br></ol>
+
+**2.5** **Asumsi – asumsi dan keterkaitan**<br>
+<ol>APLIKASI SISTEM INFORMASI DAN MANAGEMENT PENJUALAN AYAM GEPREK ALHAMDULIHAH BERBASIS WEBSITE ini dapat dikembangkan lagi dengan menambah banyak café pengguna, dan penambahan super admin untuk konfirmasi café mana saja yang boleh menggunakan aplikasi ini. Sehingga aplikasi ini dapat digunakan oleh banyak café yang ingin menggunakan aplikasi ini.<br></ol>
+
+**2.6**	**Kebutuhan – kebutuhan penyeimbang**<br>
+•	Customer Requirements
+<oL>Customer Requirements adalah analisis yang dilakukan terhadap pelanggan agar dapat mengetahui apa saja kebutuhan pelanggan sehingga pengembang dapat membuat sistem yang sesuai dengan kebutuhan pelanggan.<br></ol>
+•	Detil Requirements
+<ol>Detil Requirements adalah suatu analisis yang terdiri dari properti dan fungsionalitas spesifik yang diekspresikan dalam bentuk yang detail.<br><ol>
