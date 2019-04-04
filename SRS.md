@@ -170,3 +170,11 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 <oL>Customer Requirements adalah analisis yang dilakukan terhadap pelanggan agar dapat mengetahui apa saja kebutuhan pelanggan sehingga pengembang dapat membuat sistem yang sesuai dengan kebutuhan pelanggan.<br></ol>
 •	Detil Requirements
 <ol>Detil Requirements adalah suatu analisis yang terdiri dari properti dan fungsionalitas spesifik yang diekspresikan dalam bentuk yang detail.<br><ol>
+
+**3.** **Kebutuhan Lain Yang Spesifik**<br>
+**3.1**	**Performa**<br>
+•	Respon program kurang 30 detik.
+•	Berjalan pada browser apapun.
+**3.2**	**Keamanan Aplikasi**<br>
+•	Validasi username dan password harus sesuai dengan yang didaftarkan sehingga tidak terjadi kesalahan login pada Sistem Informasi Dan Management Admin Ayam Geprek Alhamdulilah Berbasis Website.
+ 
